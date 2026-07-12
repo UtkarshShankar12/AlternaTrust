@@ -1,0 +1,6 @@
+Model,ROC-AUC,PR-AUC,F1-Score (optimal),Optimal Threshold,Brier Score,Accuracy (0.5)
+Logistic Regression,0.7876,0.7986,0.7831,0.48,0.1928,0.7375
+Random Forest,0.795,0.8083,0.7865,0.5,0.1905,0.7562
+XGBoost,0.7906,0.8019,0.7594,0.46,0.1942,0.7063
+LightGBM,0.789,0.7983,0.7709,0.51,0.1946,0.7312
+Stacking Ensemble (Champion),0.7964,0.8111,0.7841,0.55,0.1874,0.75

@@ -1,0 +1,801 @@
+business_id,business_name,owner_name,category,city,years_in_operation,business_health_12mo
+BUS_0001,Ayushman's Studio,Deepa Kari,Gym,Delhi,2.3,1
+BUS_0002,Mahika's Cuts & Curls,Zarna D’Alia,Salon,Mumbai,5.87,1
+BUS_0003,Mahika's CrossFit,Girindra Luthra,Gym,Pune,1.82,1
+BUS_0004,Rachit's Iron Gym,Lucky Kade,Gym,Mumbai,4.32,1
+BUS_0005,Kabir's Iron Gym,Anjali Deep,Gym,Pune,2.85,0
+BUS_0006,Lakshmi's Bazaar,Guneet Prabhu,Retail,Mumbai,1.45,0
+BUS_0007,Ryan's Studio,Upkaar Ghose,Gym,Mumbai,0.83,1
+BUS_0008,Nicholas's Bistro,Tanay Thakur,Cafe,Mumbai,0.73,0
+BUS_0009,Vritti's Cafe,Niharika Mann,Cafe,Delhi,2.18,0
+BUS_0010,Lohit's Beans & Leaves,Yochana Bandi,Cafe,Bengaluru,0.5,0
+BUS_0011,Gavin's CrossFit,Dhruv Puri,Gym,Hyderabad,2.68,1
+BUS_0012,Ekani's Stores,Vedika Kaul,Retail,Delhi,0.98,1
+BUS_0013,Geetika's Bistro,Chakrika Hayre,Cafe,Pune,2.11,0
+BUS_0014,Ishaan's Iron Gym,Champak Master,Gym,Hyderabad,2.21,0
+BUS_0015,Samaksh's Pulse,Yashasvi Sampath,Gym,Mumbai,1.57,1
+BUS_0016,Meera's Corner,Faqid Pradhan,Cafe,Chennai,6.46,0
+BUS_0017,Frado's Unisex Salon,Tarak Morar,Salon,Bengaluru,1.17,1
+BUS_0018,Jairaj's Corner,Robert Wali,Cafe,Hyderabad,1.48,1
+BUS_0019,Ayush's Cuts & Curls,Jagrati Murthy,Salon,Pune,,1
+BUS_0020,Samesh's Provisions,Upma Pradhan,Retail,Chennai,1.84,0
+BUS_0021,Wakeeta's Unisex Salon,Tanay Nori,Salon,Hyderabad,2.84,0
+BUS_0022,Bishakha's Pulse,Finn Pandit,Gym,Mumbai,1.8,1
+BUS_0023,Falan's Coffee House,Krisha Aurora,Cafe,Chennai,0.71,0
+BUS_0024,Ekantika's Corner,Henry Saha,Cafe,Mumbai,3.97,0
+BUS_0025,Rehaan's Provisions,Daksh Mani,Retail,Mumbai,0.94,1
+BUS_0026,Lila's Beans & Leaves,Shaurya Andra,Cafe,Hyderabad,1.93,1
+BUS_0027,Wahab's Supermarket,Vihaan Bava,Retail,Bengaluru,2.87,0
+BUS_0028,Alka's Glow,Omaja Yogi,Salon,Pune,4.41,1
+BUS_0029,Vivaan's Iron Gym,Bhavani Bail,Gym,Delhi,1.43,0
+BUS_0030,Vritti's Mart,Zehaan Sagar,Retail,Pune,4.16,1
+BUS_0031,Harshil's Provisions,Viraj Vohra,Retail,Pune,1.75,0
+BUS_0032,Ira's Studio,Jalsa Peri,Gym,Hyderabad,0.53,0
+BUS_0033,Arin's Coffee House,Unnati Wali,Cafe,Hyderabad,5.43,1
+BUS_0034,Chasmum's Bazaar,Kashvi Mander,Retail,Mumbai,4.03,1
+BUS_0035,Yamini's Bistro,Nakul Varkey,Cafe,Pune,1.69,1
+BUS_0036,Ekaja's Powerhouse,Veda Memon,Gym,Hyderabad,5.78,0
+BUS_0037,Michael's Unisex Salon,Sarthak Grover,Salon,Mumbai,5.67,0
+BUS_0038,Ekansh's Powerhouse,Ishaan Kumer,Gym,Pune,2.33,0
+BUS_0039,Reyansh's Pulse,Raghav Mital,Gym,Bengaluru,1.9,0
+BUS_0040,Faqid's Makeover Studio,Fiyaz Viswanathan,Salon,Delhi,0.72,0
+BUS_0041,Raagini's Studio,Ikbal Deshmukh,Gym,Delhi,2.65,0
+BUS_0042,Lavanya's Pulse,Nilima Goyal,Gym,Pune,2.37,1
+BUS_0043,Lakshit's Supermarket,Harrison De,Retail,Pune,1.24,0
+BUS_0044,Tanish's Stores,Laban Sanghvi,Retail,Mumbai,3.17,1
+BUS_0045,Qasim's Unisex Salon,Jeremiah Mishra,Salon,Hyderabad,2.76,0
+BUS_0046,Geetika's Beans & Leaves,Oni Mand,Cafe,Chennai,4.03,1
+BUS_0047,Zayan's Spa & Salon,Lucky Srivastava,Salon,Mumbai,1.48,0
+BUS_0048,Dev's Makeover Studio,Qarin Karnik,Salon,Pune,0.73,1
+BUS_0049,Laban's Fitness,Victor Anne,Gym,Mumbai,2.75,0
+BUS_0050,Shravya's Beans & Leaves,Chaitanya Prabhu,Cafe,Delhi,1.94,1
+BUS_0051,Oscar's Stores,Pranit Chokshi,Retail,Mumbai,1.02,0
+BUS_0052,Ojas's Bazaar,Chanchal Kant,Retail,Mumbai,1.2,0
+BUS_0053,Vihaan's Spa & Salon,Advay Mitter,Salon,Delhi,2.76,0
+BUS_0054,David's Brew Room,Ubika Patil,Cafe,Chennai,3.41,1
+BUS_0055,Daksha's Studio,Reyansh Palan,Gym,Hyderabad,2.26,0
+BUS_0056,Sachi's CrossFit,Ati Lad,Gym,Delhi,1.23,0
+BUS_0057,Yashasvi's Iron Gym,Mitesh Parsa,Gym,Mumbai,9.79,1
+BUS_0058,Warda's Bazaar,Falak Misra,Retail,Mumbai,2.57,1
+BUS_0059,Krishna's Mart,Kavya Sastry,Retail,Mumbai,1.09,1
+BUS_0060,Netra's Studio,Urvashi Joshi,Gym,Delhi,4.07,0
+BUS_0061,Varsha's Pulse,Balvan Agrawal,Gym,Delhi,1.69,0
+BUS_0062,Lekha's Glow,Omaja Hora,Salon,Chennai,1.66,1
+BUS_0063,Varenya's Supermarket,Janaki Sant,Retail,Delhi,8.58,1
+BUS_0064,Sara's Bazaar,Yashvi Dutt,Retail,Bengaluru,1.09,0
+BUS_0065,Chaman's Supermarket,Kashvi Kota,Retail,Mumbai,1.7,1
+BUS_0066,Yug's Studio,Isaiah Seth,Gym,Pune,1.54,0
+BUS_0067,Veer's Cafe,Vasatika Sahota,Cafe,Delhi,2.43,0
+BUS_0068,Zaitra's Styles,Yashasvi Pradhan,Salon,Delhi,5.18,1
+BUS_0069,Devansh's Styles,Patrick Ratta,Salon,Delhi,1.44,1
+BUS_0070,Karan's Spa & Salon,Girindra Nayar,Salon,Chennai,,0
+BUS_0071,Girik's Styles,Hredhaan Vyas,Salon,Pune,4.99,1
+BUS_0072,Nirja's Studio,Aarna Chahal,Gym,Chennai,1.68,0
+BUS_0073,Yahvi's Bistro,Ranbir Loyal,Cafe,Bengaluru,3.69,1
+BUS_0074,Gaurangi's Coffee House,Varsha Wadhwa,Cafe,Mumbai,0.5,0
+BUS_0075,Falan's Coffee House,Qushi Yadav,Cafe,Chennai,2.92,0
+BUS_0076,Ishita's CrossFit,Pallavi Jhaveri,Gym,Delhi,2.87,1
+BUS_0077,Gaurav's Arena,Panini Virk,Gym,Delhi,2.22,1
+BUS_0078,Janaki's Coffee House,Vidhi Ray,Cafe,Mumbai,1.6,0
+BUS_0079,Balendra's Unisex Salon,Amaira Ram,Salon,Bengaluru,3.89,1
+BUS_0080,Ekiya's Corner,Yash Grewal,Cafe,Pune,2.7,0
+BUS_0081,Pooja's Cafe,Anusha Shere,Cafe,Hyderabad,3.08,0
+BUS_0082,Yauvani's Spa & Salon,Chakradev Bhat,Salon,Bengaluru,1.94,0
+BUS_0083,Qabil's Unisex Salon,Vasana Krish,Salon,Bengaluru,3.33,1
+BUS_0084,Tanvi's Corner,Girindra Sampath,Cafe,Mumbai,7.36,1
+BUS_0085,Kashish's Brew Room,Owen Bhagat,Cafe,Pune,1.29,1
+BUS_0086,Dayamai's Studio,Diya Batta,Gym,Delhi,0.92,0
+BUS_0087,Nitesh's Cafe,Bhavika Palla,Cafe,Delhi,2.69,1
+BUS_0088,Pooja's Unisex Salon,Tarak Raju,Salon,Hyderabad,3.79,1
+BUS_0089,Bina's Apparels,Ekavir Madan,Retail,Pune,5.33,1
+BUS_0090,Advik's Fitness,Lopa Roy,Gym,Delhi,11.25,0
+BUS_0091,Yoshita's Spa & Salon,Laban Bora,Salon,Pune,1.64,0
+BUS_0092,Yauvani's Makeover Studio,Abhimanyu Sani,Salon,Chennai,2.44,1
+BUS_0093,Oni's Coffee House,Charan Basu,Cafe,Delhi,3.3,1
+BUS_0094,Onveer's Spa & Salon,Tanmayi Wali,Salon,Hyderabad,2.37,1
+BUS_0095,Madhav's Apparels,Jai Pai,Retail,Pune,0.5,0
+BUS_0096,Imaran's Makeover Studio,Oliver Sur,Salon,Mumbai,3.5,0
+BUS_0097,Ishani's Studio,Logan Sibal,Gym,Mumbai,1.16,0
+BUS_0098,Indali's Apparels,Farhan Sachdev,Retail,Hyderabad,2.89,0
+BUS_0099,Joshua's Corner,Triveni Loyal,Cafe,Mumbai,2.0,1
+BUS_0100,Parth's Iron Gym,Radhika Varty,Gym,Chennai,1.15,1
+BUS_0101,Eesha's Provisions,Dayita Shukla,Retail,Bengaluru,3.29,0
+BUS_0102,Aayush's Spa & Salon,Lekha Jhaveri,Salon,Mumbai,4.73,1
+BUS_0103,Wyatt's Provisions,Samaksh Dutt,Retail,Bengaluru,0.58,0
+BUS_0104,Panini's Corner,Vansha Date,Cafe,Bengaluru,3.29,1
+BUS_0105,Girish's Cafe,Meghana Prakash,Cafe,Delhi,15.0,0
+BUS_0106,Vrishti's Beans & Leaves,Kabir Shah,Cafe,Mumbai,4.68,0
+BUS_0107,Vihaan's Cafe,Xavier Vyas,Cafe,Delhi,3.77,1
+BUS_0108,Faras's Coffee House,Niharika Nori,Cafe,Hyderabad,3.35,1
+BUS_0109,Edhitha's Arena,Simon Pandit,Gym,Chennai,1.54,1
+BUS_0110,Tanvi's CrossFit,Ronith Zacharia,Gym,Hyderabad,2.09,1
+BUS_0111,Gavin's Glow,Bhavya Reddy,Salon,Bengaluru,1.88,1
+BUS_0112,Upasna's Coffee House,Nihal Prasad,Cafe,Pune,1.19,1
+BUS_0113,Gauri's Powerhouse,Upkaar Gala,Gym,Hyderabad,4.04,0
+BUS_0114,Rachit's Bazaar,Omkaar Naidu,Retail,Bengaluru,1.2,0
+BUS_0115,Mitesh's Glow,Zayyan Oak,Salon,Mumbai,2.99,0
+BUS_0116,Charles's Apparels,Peter Buch,Retail,Hyderabad,2.17,0
+BUS_0117,Vaishnavi's Beans & Leaves,Aashi Reddy,Cafe,Chennai,1.53,0
+BUS_0118,Girik's Bistro,Harrison Krishnan,Cafe,Bengaluru,4.33,1
+BUS_0119,Balhaar's Brew Room,Vedhika Khare,Cafe,Chennai,1.48,0
+BUS_0120,Upma's Glow,Nihal Basu,Salon,Pune,3.38,0
+BUS_0121,Krish's Spa & Salon,Harini Apte,Salon,Hyderabad,,0
+BUS_0122,Qushi's Bistro,Baljiwan Thakkar,Cafe,Delhi,3.99,1
+BUS_0123,Anthony's Makeover Studio,Vasana Agrawal,Salon,Mumbai,1.22,1
+BUS_0124,Laban's Styles,Reyansh Kumar,Salon,Chennai,1.27,0
+BUS_0125,Ojas's CrossFit,Ekansh Radhakrishnan,Gym,Chennai,3.72,1
+BUS_0126,Advaith's Cuts & Curls,Orinder Jain,Salon,Hyderabad,3.23,0
+BUS_0127,Ganga's Supermarket,Devansh Raj,Retail,Mumbai,5.2,1
+BUS_0128,Orinder's Pulse,Faris Bedi,Gym,Delhi,0.9,0
+BUS_0129,Kala's Styles,Nandini Chakraborty,Salon,Hyderabad,2.09,1
+BUS_0130,Aishani's Glow,Naksh Lalla,Salon,Delhi,3.76,1
+BUS_0131,Yadavi's Stores,Onkar Comar,Retail,Hyderabad,1.68,0
+BUS_0132,Harini's Beans & Leaves,Urishilla Apte,Cafe,Chennai,0.5,0
+BUS_0133,Jeevika's Bazaar,Pavani Prakash,Retail,Pune,0.93,0
+BUS_0134,Reva's Provisions,Radhika Johal,Retail,Chennai,1.76,1
+BUS_0135,Veda's Brew Room,Finn Oak,Cafe,Pune,2.19,0
+BUS_0136,Tanveer's Cafe,Garima Mishra,Cafe,Chennai,1.66,1
+BUS_0137,Upasna's Unisex Salon,Ekapad Walia,Salon,Bengaluru,2.82,1
+BUS_0138,Ekanta's Iron Gym,Vedhika Ghosh,Gym,Mumbai,2.45,0
+BUS_0139,Yochana's Makeover Studio,Gaurangi Lad,Salon,Hyderabad,1.65,1
+BUS_0140,Anay's Stores,Mekhala Parekh,Retail,Bengaluru,1.8,1
+BUS_0141,Anay's Pulse,Varenya Sastry,Gym,Mumbai,3.37,1
+BUS_0142,Bahadurjit's CrossFit,Tanay Dass,Gym,Pune,,1
+BUS_0143,Janaki's Brew Room,Azad Mutti,Cafe,Bengaluru,1.76,1
+BUS_0144,Baghyawati's Apparels,Yashawini Dhar,Retail,Pune,3.09,0
+BUS_0145,Logan's Makeover Studio,Abdul Bhatti,Salon,Chennai,1.67,1
+BUS_0146,Januja's Bazaar,Osha Gulati,Retail,Delhi,1.55,1
+BUS_0147,Dhruv's Supermarket,Rajeshri Taneja,Retail,Hyderabad,3.41,0
+BUS_0148,Arunima's Styles,Leena Anand,Salon,Pune,1.65,1
+BUS_0149,Ekanta's Stores,Naveen Murty,Retail,Pune,3.13,1
+BUS_0150,Bakhshi's CrossFit,Om Jain,Gym,Hyderabad,3.65,1
+BUS_0151,Arin's Mart,Henry Bal,Retail,Mumbai,,0
+BUS_0152,Rachana's Brew Room,Matthew Dey,Cafe,Mumbai,3.58,1
+BUS_0153,Qabil's Bazaar,Krish Bhardwaj,Retail,Bengaluru,2.38,1
+BUS_0154,Lavanya's Fitness,Chatresh Venkataraman,Gym,Chennai,2.2,1
+BUS_0155,Bhavini's Iron Gym,Lipika Koshy,Gym,Bengaluru,2.24,1
+BUS_0156,Pushti's Iron Gym,Harrison Varty,Gym,Delhi,4.19,1
+BUS_0157,Girindra's Iron Gym,Osha Padmanabhan,Gym,Pune,4.04,1
+BUS_0158,Oni's Mart,Ridhi Wali,Retail,Hyderabad,2.91,1
+BUS_0159,Anirudh's Cuts & Curls,Daksh Sami,Salon,Chennai,2.19,1
+BUS_0160,Neel's Beans & Leaves,Robert Bali,Cafe,Mumbai,2.22,1
+BUS_0161,Aayush's Powerhouse,Bahadurjit Kala,Gym,Mumbai,3.23,1
+BUS_0162,Leena's Arena,Arin Banerjee,Gym,Bengaluru,7.4,0
+BUS_0163,Vrinda's Apparels,Gabriel Bhasin,Retail,Chennai,,0
+BUS_0164,Pooja's Cuts & Curls,Pratyush Sha,Salon,Delhi,4.16,1
+BUS_0165,Jackson's Pulse,Kamala Bajwa,Gym,Pune,3.56,1
+BUS_0166,Viraj's Provisions,Yutika Wali,Retail,Hyderabad,1.29,1
+BUS_0167,Gavin's Brew Room,Hredhaan Srinivasan,Cafe,Delhi,1.52,0
+BUS_0168,Vedika's Powerhouse,Fiyaz Jayaraman,Gym,Chennai,2.53,1
+BUS_0169,Ishanvi's Supermarket,Chandresh Sharma,Retail,Hyderabad,1.42,0
+BUS_0170,Netra's Beans & Leaves,Gaurav Bali,Cafe,Pune,,0
+BUS_0171,Pooja's Apparels,Bhavya Mahajan,Retail,Chennai,2.16,0
+BUS_0172,Saksham's Cafe,Abhiram Kumer,Cafe,Mumbai,1.76,1
+BUS_0173,Amaira's Bazaar,Peter Comar,Retail,Mumbai,2.32,0
+BUS_0174,Ekansh's Mart,Abeer Ben,Retail,Bengaluru,0.5,0
+BUS_0175,Farhan's Brew Room,Vedika Barman,Cafe,Mumbai,1.6,1
+BUS_0176,Xiti's Coffee House,Gaurangi Chowdhury,Cafe,Bengaluru,5.55,0
+BUS_0177,Neha's Cafe,Harrison Lanka,Cafe,Pune,2.45,1
+BUS_0178,Hiral's Makeover Studio,Yash Goel,Salon,Delhi,1.21,0
+BUS_0179,Henry's Supermarket,Utkarsh Konda,Retail,Pune,1.86,0
+BUS_0180,Bakhshi's Mart,Lakshmi Prakash,Retail,Chennai,,1
+BUS_0181,Agastya's Cuts & Curls,Chaaya Brahmbhatt,Salon,Chennai,5.84,1
+BUS_0182,Hema's Beans & Leaves,Falan Talwar,Cafe,Chennai,2.78,0
+BUS_0183,Balvan's Stores,Aadhya Sani,Retail,Hyderabad,2.09,1
+BUS_0184,Dhruv's Provisions,Chaman Golla,Retail,Bengaluru,2.35,1
+BUS_0185,Umang's Iron Gym,Abhimanyu Deo,Gym,Hyderabad,1.45,1
+BUS_0186,Lohit's Makeover Studio,Tripti Walia,Salon,Mumbai,3.01,0
+BUS_0187,Ladli's Beans & Leaves,Anthony Anne,Cafe,Hyderabad,4.68,0
+BUS_0188,Ronith's Bistro,Omkaar Hegde,Cafe,Delhi,2.48,1
+BUS_0189,Urmi's Coffee House,Triveni Dubey,Cafe,Mumbai,2.92,1
+BUS_0190,Siddharth's Spa & Salon,Zaid Srinivas,Salon,Bengaluru,2.47,1
+BUS_0191,Ekta's Bistro,Arya Kunda,Cafe,Hyderabad,1.13,0
+BUS_0192,Janaki's Mart,Upasna Narayanan,Retail,Delhi,0.56,0
+BUS_0193,Darika's Bazaar,Lajita Walla,Retail,Chennai,2.06,0
+BUS_0194,Radhika's Pulse,Radha Garde,Gym,Bengaluru,7.03,1
+BUS_0195,Neel's CrossFit,Yahvi Krishna,Gym,Chennai,2.05,1
+BUS_0196,Suhani's Iron Gym,Jack Walia,Gym,Mumbai,2.54,0
+BUS_0197,Sai's Bistro,Tripti Tella,Cafe,Delhi,6.02,1
+BUS_0198,Aadi's Stores,Yagnesh Sathe,Retail,Pune,2.27,1
+BUS_0199,Zansi's Glow,Isha Nanda,Salon,Pune,4.16,0
+BUS_0200,Sanaya's Stores,Raksha Chaudry,Retail,Bengaluru,4.62,0
+BUS_0201,Faris's Beans & Leaves,Ayaan Narain,Cafe,Pune,0.76,0
+BUS_0202,Shaurya's Studio,Dhruv Varty,Gym,Mumbai,2.29,1
+BUS_0203,Jonathan's Iron Gym,Lavanya Sawhney,Gym,Mumbai,3.01,1
+BUS_0204,Praneel's Fitness,Atharv Rama,Gym,Mumbai,1.51,0
+BUS_0205,Mohammed's Mart,Yutika Mand,Retail,Bengaluru,3.09,1
+BUS_0206,Samaksh's Brew Room,Yadavi Bava,Cafe,Hyderabad,1.49,1
+BUS_0207,Wazir's Cuts & Curls,Bakhshi Patil,Salon,Bengaluru,4.02,0
+BUS_0208,Janaki's Spa & Salon,Vedant Nanda,Salon,Chennai,1.59,1
+BUS_0209,Gagan's Makeover Studio,Mason Verma,Salon,Bengaluru,3.16,1
+BUS_0210,Jhalak's Styles,Tara Luthra,Salon,Bengaluru,2.91,1
+BUS_0211,Dhruv's Cafe,Yutika Batra,Cafe,Chennai,7.41,1
+BUS_0212,Ranveer's Brew Room,Warda Mistry,Cafe,Hyderabad,3.86,0
+BUS_0213,Kai's Mart,Irya Upadhyay,Retail,Chennai,5.38,1
+BUS_0214,Hiral's Provisions,Jairaj Dave,Retail,Hyderabad,2.88,0
+BUS_0215,Falguni's Iron Gym,Qasim Amble,Gym,Delhi,1.3,0
+BUS_0216,Ekansh's Pulse,Girindra Acharya,Gym,Hyderabad,0.5,0
+BUS_0217,Rudra's CrossFit,Amrita Mukhopadhyay,Gym,Mumbai,3.29,0
+BUS_0218,Darpan's Supermarket,Ronith Khare,Retail,Bengaluru,3.08,0
+BUS_0219,Kavya's Bazaar,Leena Bhasin,Retail,Hyderabad,1.79,0
+BUS_0220,Anjali's Bazaar,Manan Khurana,Retail,Bengaluru,1.3,0
+BUS_0221,George's Powerhouse,Chandresh Kakar,Gym,Mumbai,2.37,1
+BUS_0222,Anita's Apparels,Odika Nori,Retail,Bengaluru,,0
+BUS_0223,Chanakya's Fitness,Samarth Iyengar,Gym,Chennai,2.67,0
+BUS_0224,Rachana's Brew Room,Tejas Sachdeva,Cafe,Delhi,1.45,0
+BUS_0225,Luke's Pulse,Aadhya Ganesan,Gym,Hyderabad,0.92,0
+BUS_0226,Kala's Supermarket,Dayita Palla,Retail,Delhi,3.92,1
+BUS_0227,Oeshi's Bazaar,Zaitra Krishnamurthy,Retail,Hyderabad,2.52,0
+BUS_0228,Andrew's Styles,Jonathan Chokshi,Salon,Bengaluru,1.12,1
+BUS_0229,Laksh's Corner,Fariq Basu,Cafe,Chennai,1.14,0
+BUS_0230,Victor's Arena,Anika Divan,Gym,Hyderabad,0.81,0
+BUS_0231,Adweta's Styles,Vanya Sabharwal,Salon,Bengaluru,3.26,1
+BUS_0232,Harini's Supermarket,Aashi Bali,Retail,Delhi,2.18,0
+BUS_0233,Janani's Fitness,Gaurika Ghose,Gym,Chennai,,0
+BUS_0234,Advik's Cuts & Curls,Pahal Soman,Salon,Chennai,,1
+BUS_0235,Lucky's Brew Room,Ekaja Narula,Cafe,Chennai,1.31,0
+BUS_0236,Mohammed's Styles,Xalak Butala,Salon,Chennai,,1
+BUS_0237,Indali's Styles,Qasim Verma,Salon,Pune,4.3,0
+BUS_0238,Chakradev's Unisex Salon,Warinder Dubey,Salon,Delhi,2.74,1
+BUS_0239,Aarnav's Stores,Praneel Rajagopal,Retail,Bengaluru,2.97,1
+BUS_0240,Triya's Studio,Yashodhara Nayak,Gym,Bengaluru,5.9,1
+BUS_0241,Wakeeta's Bazaar,Xavier Baral,Retail,Mumbai,1.19,0
+BUS_0242,Matthew's Beans & Leaves,Samuel Sant,Cafe,Bengaluru,1.71,0
+BUS_0243,Vamakshi's Provisions,Garima Garde,Retail,Chennai,0.57,0
+BUS_0244,Lajita's Glow,Raagini Sagar,Salon,Pune,0.84,0
+BUS_0245,Vritti's Provisions,Sachi Bhandari,Retail,Delhi,4.62,1
+BUS_0246,Chavvi's Apparels,William Sachdeva,Retail,Chennai,5.4,0
+BUS_0247,Frederick's Spa & Salon,Ubika Goyal,Salon,Chennai,1.37,1
+BUS_0248,Chatura's Brew Room,Zilmil Nayar,Cafe,Delhi,3.84,1
+BUS_0249,Indrajit's Apparels,Tanish Pal,Retail,Delhi,1.47,1
+BUS_0250,Balendra's Glow,Yatin Balan,Salon,Delhi,0.53,0
+BUS_0251,Omisha's Beans & Leaves,Avi Singh,Cafe,Bengaluru,7.46,1
+BUS_0252,Ojas's Pulse,Zaid Parsa,Gym,Bengaluru,2.42,0
+BUS_0253,Jyoti's Apparels,Vedika Yogi,Retail,Bengaluru,1.34,0
+BUS_0254,Aishani's Mart,Oscar Venkataraman,Retail,Pune,1.03,0
+BUS_0255,Yashica's Cuts & Curls,Zilmil Khosla,Salon,Hyderabad,1.38,0
+BUS_0256,Onkar's Spa & Salon,Wishi Ramachandran,Salon,Hyderabad,2.29,1
+BUS_0257,Benjamin's Studio,Gavin Sachar,Gym,Hyderabad,1.17,0
+BUS_0258,Hritik's Apparels,Gavin Thakur,Retail,Mumbai,3.21,1
+BUS_0259,Karan's Powerhouse,Ishita Madan,Gym,Delhi,1.49,0
+BUS_0260,Faras's Coffee House,Vritti Murty,Cafe,Bengaluru,3.54,1
+BUS_0261,Zashil's Glow,Ansh Reddy,Salon,Pune,2.25,0
+BUS_0262,Warinder's Makeover Studio,Timothy Sankar,Salon,Mumbai,2.8,1
+BUS_0263,Lohit's Apparels,Dominic Gupta,Retail,Pune,0.5,0
+BUS_0264,Alexander's Glow,Jack Sharma,Salon,Mumbai,1.48,0
+BUS_0265,Ishwar's Apparels,Aarna Sekhon,Retail,Bengaluru,1.42,1
+BUS_0266,Baljiwan's Apparels,Varenya Muni,Retail,Bengaluru,,1
+BUS_0267,Onkar's Powerhouse,Upkaar Lalla,Gym,Chennai,1.04,0
+BUS_0268,Shravya's Brew Room,Abhimanyu Ben,Cafe,Hyderabad,1.96,0
+BUS_0269,Gayathri's Supermarket,Balvan Pant,Retail,Bengaluru,1.34,0
+BUS_0270,Umang's Supermarket,Harinakshi Devi,Retail,Delhi,2.08,1
+BUS_0271,Aarini's Coffee House,Kai Minhas,Cafe,Pune,1.55,0
+BUS_0272,Siddharth's Corner,Azad Pandey,Cafe,Delhi,5.55,1
+BUS_0273,Rayaan's Pulse,Nirja Ratta,Gym,Pune,0.5,0
+BUS_0274,Wazir's Studio,Chakradev Handa,Gym,Pune,2.26,1
+BUS_0275,Bimala's Beans & Leaves,Laban Balakrishnan,Cafe,Mumbai,1.73,0
+BUS_0276,Viraj's Makeover Studio,Tanvi Nanda,Salon,Hyderabad,2.07,0
+BUS_0277,Jonathan's Spa & Salon,Hemal Dar,Salon,Hyderabad,3.18,0
+BUS_0278,Janaki's Pulse,Kashvi Rau,Gym,Bengaluru,1.91,1
+BUS_0279,Triya's Bistro,Vasatika Mohanty,Cafe,Hyderabad,1.47,1
+BUS_0280,Xavier's Corner,Urmi Prasad,Cafe,Bengaluru,1.93,1
+BUS_0281,Wahab's Styles,Omkaar Bera,Salon,Mumbai,7.88,0
+BUS_0282,Jagrati's Beans & Leaves,Janya Bakshi,Cafe,Pune,2.27,0
+BUS_0283,Luke's Glow,Jason Dutta,Salon,Bengaluru,2.34,0
+BUS_0284,Ekiya's Coffee House,Eiravati Mannan,Cafe,Hyderabad,0.5,0
+BUS_0285,Irya's Supermarket,Zinal Trivedi,Retail,Delhi,0.87,0
+BUS_0286,Mohini's Cuts & Curls,Manthan Kalla,Salon,Hyderabad,6.09,0
+BUS_0287,Yutika's Provisions,Amol Oak,Retail,Pune,2.11,1
+BUS_0288,Kamala's Provisions,Sanya Malhotra,Retail,Delhi,,1
+BUS_0289,Yug's Apparels,Tripti Srinivas,Retail,Bengaluru,3.65,0
+BUS_0290,Umang's Brew Room,Yashawini Sastry,Cafe,Pune,3.68,0
+BUS_0291,Bimala's Corner,Chakradhar Gulati,Cafe,Delhi,1.9,1
+BUS_0292,Ria's Arena,Noah Deol,Gym,Pune,9.01,1
+BUS_0293,Ronith's Spa & Salon,Mekhala Misra,Salon,Hyderabad,2.67,0
+BUS_0294,Garima's Provisions,Siya Ganesh,Retail,Hyderabad,1.11,0
+BUS_0295,Imaran's Fitness,Kalpit Chanda,Gym,Mumbai,1.75,0
+BUS_0296,Indrajit's Cafe,Megha Dave,Cafe,Chennai,1.71,1
+BUS_0297,Gaurang's Glow,Vamakshi Banerjee,Salon,Chennai,2.96,1
+BUS_0298,Gaurangi's Apparels,Arjun Chahal,Retail,Pune,2.16,1
+BUS_0299,Wishi's Mart,Ladli Tata,Retail,Hyderabad,,0
+BUS_0300,Keya's Mart,Oni Rout,Retail,Bengaluru,2.57,0
+BUS_0301,Aishani's Glow,Bhavika Sheth,Salon,Chennai,1.66,0
+BUS_0302,Qadim's Corner,Maanav Dalal,Cafe,Delhi,5.45,1
+BUS_0303,Meera's Brew Room,Darika Subramaniam,Cafe,Delhi,7.07,1
+BUS_0304,Isaiah's Fitness,Bahadurjit Bhat,Gym,Chennai,,0
+BUS_0305,Baghyawati's Pulse,Azad Pall,Gym,Delhi,4.57,0
+BUS_0306,Xavier's Makeover Studio,Prisha Ganesh,Salon,Pune,2.48,1
+BUS_0307,Bhavini's Makeover Studio,Yasti Gara,Salon,Pune,1.27,0
+BUS_0308,Vihaan's Makeover Studio,Saumya Wason,Salon,Bengaluru,3.63,1
+BUS_0309,Chandresh's Pulse,Ganga Parsa,Gym,Bengaluru,3.49,0
+BUS_0310,Prisha's Unisex Salon,Pushti Kumar,Salon,Pune,2.79,0
+BUS_0311,Netra's Pulse,Aayush Raghavan,Gym,Hyderabad,2.56,1
+BUS_0312,Daksha's Pulse,Dipta Sachdeva,Gym,Bengaluru,5.93,1
+BUS_0313,Pranit's Bistro,Aadi Chhabra,Cafe,Delhi,2.43,1
+BUS_0314,Priya's Glow,Lucky Soman,Salon,Hyderabad,1.57,0
+BUS_0315,Ekaraj's CrossFit,Fariq Wagle,Gym,Chennai,4.32,0
+BUS_0316,Anthony's Arena,Nirja Varughese,Gym,Chennai,4.73,0
+BUS_0317,Tripti's Pulse,Yashasvi Kurian,Gym,Hyderabad,1.64,0
+BUS_0318,Libni's Corner,Ethan Mukhopadhyay,Cafe,Chennai,0.5,0
+BUS_0319,Gavin's Pulse,Tara Mani,Gym,Chennai,2.74,1
+BUS_0320,Ucchal's Studio,Abdul Sami,Gym,Chennai,0.5,0
+BUS_0321,Ira's Powerhouse,Indrajit Loyal,Gym,Delhi,5.89,0
+BUS_0322,Ekalinga's Powerhouse,Anvi Rajagopalan,Gym,Mumbai,0.77,0
+BUS_0323,Anmol's Beans & Leaves,Hritik Sethi,Cafe,Chennai,1.77,0
+BUS_0324,Vrishti's Stores,Isaiah Sengupta,Retail,Pune,0.81,0
+BUS_0325,Aayush's Studio,Ijaya Virk,Gym,Hyderabad,3.26,0
+BUS_0326,Madhavi's Glow,Caleb Kalita,Salon,Chennai,5.3,1
+BUS_0327,Reva's Bazaar,Diya Barad,Retail,Bengaluru,1.01,0
+BUS_0328,Udant's CrossFit,Faraj Brahmbhatt,Gym,Bengaluru,3.59,1
+BUS_0329,Caleb's Bistro,Zilmil Dani,Cafe,Bengaluru,2.2,0
+BUS_0330,Mitesh's Mart,Anay Tandon,Retail,Delhi,2.14,0
+BUS_0331,Krisha's Fitness,Ekalinga Wadhwa,Gym,Chennai,1.32,0
+BUS_0332,Vamakshi's Beans & Leaves,Nitara Din,Cafe,Mumbai,1.59,1
+BUS_0333,Theodore's Cafe,Maya Kant,Cafe,Hyderabad,2.02,0
+BUS_0334,Nitara's Mart,Faras Gara,Retail,Hyderabad,5.36,0
+BUS_0335,Nirja's Cafe,Suhani Mani,Cafe,Bengaluru,2.96,0
+BUS_0336,Ethan's Cuts & Curls,Vasatika Raj,Salon,Mumbai,,1
+BUS_0337,Falak's Pulse,Prisha Patla,Gym,Bengaluru,1.61,0
+BUS_0338,Oni's Arena,Oni Balasubramanian,Gym,Bengaluru,0.69,0
+BUS_0339,Yachana's Stores,Radha Doctor,Retail,Pune,5.81,0
+BUS_0340,Ojas's Studio,Ekantika Soni,Gym,Pune,5.24,1
+BUS_0341,Andrew's Bistro,Sudiksha Basu,Cafe,Delhi,1.49,1
+BUS_0342,Warhi's Coffee House,Warinder More,Cafe,Bengaluru,2.72,1
+BUS_0343,Balendra's Cuts & Curls,Warjas Deshpande,Salon,Pune,2.8,0
+BUS_0344,Yasti's Cuts & Curls,Tanmayi Kumer,Salon,Hyderabad,1.66,0
+BUS_0345,Girish's Arena,Kavya Morar,Gym,Hyderabad,3.26,1
+BUS_0346,Lucky's Provisions,Chatura Sharma,Retail,Chennai,4.28,1
+BUS_0347,Riya's Coffee House,Warjas Sagar,Cafe,Hyderabad,2.68,0
+BUS_0348,Raghav's Iron Gym,Wishi Char,Gym,Delhi,2.14,1
+BUS_0349,Sneha's Fitness,Nidhi Varty,Gym,Hyderabad,1.21,1
+BUS_0350,Nathan's Stores,Rudra Pai,Retail,Chennai,2.45,1
+BUS_0351,Varenya's Beans & Leaves,Yauvani Chokshi,Cafe,Mumbai,3.91,1
+BUS_0352,Janaki's Provisions,Harrison Johal,Retail,Delhi,,0
+BUS_0353,Rushil's Apparels,Chaitanya Zacharia,Retail,Pune,2.42,0
+BUS_0354,Vasatika's Styles,Amol Vyas,Salon,Chennai,5.74,1
+BUS_0355,Vamakshi's Makeover Studio,Aarini Mammen,Salon,Bengaluru,5.12,0
+BUS_0356,Nathaniel's Coffee House,Mekhala Anand,Cafe,Bengaluru,,1
+BUS_0357,Mohini's Bazaar,Naveen Morar,Retail,Hyderabad,,1
+BUS_0358,Yochana's Apparels,Bhavani Konda,Retail,Pune,4.3,1
+BUS_0359,Vedhika's Brew Room,Veda Chowdhury,Cafe,Delhi,2.49,0
+BUS_0360,Faris's Fitness,Sai Sarma,Gym,Chennai,,0
+BUS_0361,Ekbal's Arena,Arunima Sarna,Gym,Bengaluru,0.95,1
+BUS_0362,Arjun's Apparels,Falguni Ahluwalia,Retail,Hyderabad,2.8,0
+BUS_0363,Zaitra's Fitness,Tanvi Bhatt,Gym,Chennai,2.08,0
+BUS_0364,Orinder's Glow,Mason Bali,Salon,Pune,2.75,0
+BUS_0365,Mason's Brew Room,Balveer Shanker,Cafe,Delhi,1.13,0
+BUS_0366,Nandini's Styles,Yauvani Ramaswamy,Salon,Chennai,1.34,1
+BUS_0367,Lajita's Pulse,Zarna Rajagopal,Gym,Chennai,1.01,1
+BUS_0368,Riya's Coffee House,Eesha Halder,Cafe,Mumbai,3.47,1
+BUS_0369,Rudra's Studio,Ekavir Ahuja,Gym,Pune,4.14,1
+BUS_0370,Qasim's Unisex Salon,Girish Mann,Salon,Bengaluru,4.92,1
+BUS_0371,Ira's Spa & Salon,Warda Tak,Salon,Mumbai,0.5,0
+BUS_0372,Nilima's Styles,Warjas Minhas,Salon,Mumbai,1.95,1
+BUS_0373,Champak's Pulse,Hiral Bali,Gym,Mumbai,1.7,1
+BUS_0374,Onkar's Stores,Sathvik Dada,Retail,Pune,1.51,1
+BUS_0375,Nathaniel's Coffee House,Kala Lala,Cafe,Hyderabad,0.65,1
+BUS_0376,Tarak's CrossFit,Irya Sawhney,Gym,Chennai,0.53,0
+BUS_0377,Warjas's Cafe,Anita Patel,Cafe,Pune,3.7,0
+BUS_0378,Raghav's CrossFit,Farhan Boase,Gym,Bengaluru,10.32,0
+BUS_0379,Nidhi's Pulse,Janya Gupta,Gym,Bengaluru,2.73,1
+BUS_0380,Ridhi's Arena,Ojas Sarraf,Gym,Pune,2.96,0
+BUS_0381,Varenya's Stores,Eta Vyas,Retail,Pune,2.11,0
+BUS_0382,Hemani's Pulse,Kavya Mallick,Gym,Chennai,3.38,1
+BUS_0383,Vedika's Styles,Keya Chacko,Salon,Bengaluru,2.03,1
+BUS_0384,Azad's Glow,Amruta Talwar,Salon,Delhi,6.42,1
+BUS_0385,Viraj's Cafe,Maanav Mitter,Cafe,Hyderabad,6.29,0
+BUS_0386,Alka's Makeover Studio,Rayaan Pall,Salon,Delhi,1.94,1
+BUS_0387,Udarsh's Stores,Yahvi Ravel,Retail,Pune,4.31,1
+BUS_0388,Xavier's Coffee House,Christopher Kulkarni,Cafe,Bengaluru,1.18,1
+BUS_0389,Christopher's Beans & Leaves,Xalak Mall,Cafe,Hyderabad,1.55,1
+BUS_0390,Ekansh's Coffee House,Gaurang Sood,Cafe,Delhi,3.19,1
+BUS_0391,Michael's Provisions,Girindra Balasubramanian,Retail,Bengaluru,1.09,0
+BUS_0392,Darika's Spa & Salon,Tanay Divan,Salon,Bengaluru,3.4,1
+BUS_0393,Dipta's Unisex Salon,Urmi Pillay,Salon,Bengaluru,4.54,0
+BUS_0394,Yug's Stores,Zayan Chanda,Retail,Mumbai,3.35,1
+BUS_0395,Anay's Arena,Orinder Dey,Gym,Bengaluru,0.79,1
+BUS_0396,Udarsh's Corner,Abhimanyu Dass,Cafe,Mumbai,2.74,1
+BUS_0397,Niharika's Studio,Aryan Tandon,Gym,Hyderabad,1.17,1
+BUS_0398,Mitesh's Coffee House,Yashodhara Kalla,Cafe,Delhi,3.65,0
+BUS_0399,Viraj's Glow,Nikita Subramanian,Salon,Bengaluru,3.33,1
+BUS_0400,Warda's Spa & Salon,Gauri Agrawal,Salon,Mumbai,2.28,1
+BUS_0401,Falak's Pulse,Aahana Devan,Gym,Pune,2.1,1
+BUS_0402,Dominic's Powerhouse,Dhriti Chauhan,Gym,Hyderabad,1.73,0
+BUS_0403,Ira's Glow,Owen Sarna,Salon,Pune,1.63,1
+BUS_0404,Urishilla's Styles,Mitali Baria,Salon,Hyderabad,1.78,0
+BUS_0405,Hemani's Glow,Reva Shukla,Salon,Hyderabad,1.93,1
+BUS_0406,Januja's Corner,Pratyush Naik,Cafe,Hyderabad,,1
+BUS_0407,Gabriel's Provisions,Yauvani Patla,Retail,Pune,3.23,1
+BUS_0408,Chameli's Stores,Falak Mahajan,Retail,Mumbai,1.43,1
+BUS_0409,Aadhya's Provisions,Aradhana Yogi,Retail,Mumbai,3.93,1
+BUS_0410,Leela's Provisions,Maanas Comar,Retail,Chennai,4.26,0
+BUS_0411,Wahab's Supermarket,Hitesh Nagar,Retail,Mumbai,4.93,0
+BUS_0412,Timothy's Spa & Salon,Ishita Sani,Salon,Bengaluru,2.94,1
+BUS_0413,Watika's Cafe,Vasatika Goswami,Cafe,Pune,5.1,0
+BUS_0414,Mohammed's Fitness,Pushti Mishra,Gym,Bengaluru,2.42,1
+BUS_0415,Ayushman's Beans & Leaves,Indrajit Borde,Cafe,Chennai,1.67,1
+BUS_0416,Wyatt's Supermarket,Samaksh Wagle,Retail,Delhi,0.61,0
+BUS_0417,Amruta's Brew Room,Dhruv Sani,Cafe,Delhi,0.9,1
+BUS_0418,Veda's Brew Room,Vrishti Reddy,Cafe,Mumbai,2.54,0
+BUS_0419,Jyoti's Cafe,Ekansh Goyal,Cafe,Mumbai,2.0,1
+BUS_0420,Samaksh's Studio,Bahadurjit Maharaj,Gym,Hyderabad,2.45,1
+BUS_0421,Janani's Spa & Salon,Zaitra Subramanian,Salon,Mumbai,3.31,1
+BUS_0422,Nicholas's Supermarket,Victor Khanna,Retail,Hyderabad,2.24,0
+BUS_0423,Chasmum's Stores,Gagan Kata,Retail,Chennai,3.07,1
+BUS_0424,Nirja's Powerhouse,Chanakya Bose,Gym,Delhi,9.85,1
+BUS_0425,Idika's Cuts & Curls,Isaiah Lad,Salon,Pune,1.3,0
+BUS_0426,Forum's Provisions,Urishilla Kadakia,Retail,Delhi,1.28,1
+BUS_0427,Frederick's Iron Gym,Neelima Datta,Gym,Delhi,4.22,0
+BUS_0428,Yashoda's Mart,Madhavi Purohit,Retail,Delhi,2.29,1
+BUS_0429,Jeevika's Stores,Aadhya Kakar,Retail,Pune,2.54,1
+BUS_0430,Rudra's Makeover Studio,Gautam Subramaniam,Salon,Hyderabad,2.98,1
+BUS_0431,Qarin's Powerhouse,Jasmit Sundaram,Gym,Pune,1.0,1
+BUS_0432,Ojas's Apparels,Wazir Raja,Retail,Mumbai,7.31,1
+BUS_0433,Bhavini's Beans & Leaves,Nachiket Sidhu,Cafe,Delhi,1.46,0
+BUS_0434,Aadhya's Pulse,Quincy Luthra,Gym,Chennai,2.86,1
+BUS_0435,Chatresh's Provisions,Neel Ahuja,Retail,Bengaluru,7.76,1
+BUS_0436,Agastya's Coffee House,Zaitra Panchal,Cafe,Delhi,1.29,1
+BUS_0437,Finn's Studio,Dipta Venkataraman,Gym,Pune,0.75,0
+BUS_0438,Zehaan's Unisex Salon,Idika Balay,Salon,Delhi,6.52,1
+BUS_0439,Chatura's Glow,Lucky Wali,Salon,Hyderabad,2.29,0
+BUS_0440,Divya's Supermarket,Anvi Chopra,Retail,Hyderabad,4.53,0
+BUS_0441,Orinder's Pulse,Udant Behl,Gym,Hyderabad,2.88,1
+BUS_0442,Udyati's Iron Gym,Chatura Shan,Gym,Bengaluru,3.92,1
+BUS_0443,Hamsini's Unisex Salon,Manbir Brar,Salon,Delhi,7.08,0
+BUS_0444,Nilima's Bazaar,Ojasvi Dey,Retail,Pune,2.09,1
+BUS_0445,Bahadurjit's Unisex Salon,Frado Agarwal,Salon,Bengaluru,4.62,0
+BUS_0446,Vihaan's Powerhouse,Isaiah Anne,Gym,Hyderabad,3.43,1
+BUS_0447,Luke's Brew Room,Jasmit Narasimhan,Cafe,Chennai,5.02,1
+BUS_0448,Eesha's Supermarket,Mekhala Pathak,Retail,Bengaluru,3.98,1
+BUS_0449,Vrishti's Stores,Lipika Sehgal,Retail,Bengaluru,2.35,1
+BUS_0450,Rachit's CrossFit,Hardik Patel,Gym,Hyderabad,1.97,1
+BUS_0451,Xalak's Unisex Salon,Manya Soman,Salon,Pune,1.94,1
+BUS_0452,Jack's Studio,Vanya Pant,Gym,Bengaluru,4.81,1
+BUS_0453,Charita's Apparels,Libni Dhar,Retail,Pune,2.38,1
+BUS_0454,Gaurav's Bazaar,Banjeet Dhaliwal,Retail,Bengaluru,2.8,1
+BUS_0455,Varsha's Brew Room,Dominic Balan,Cafe,Pune,,1
+BUS_0456,Leena's Studio,Harita Thakkar,Gym,Delhi,2.38,0
+BUS_0457,Alka's Corner,Turvi Sankar,Cafe,Pune,5.86,1
+BUS_0458,Joshua's Pulse,Neha Talwar,Gym,Mumbai,2.58,0
+BUS_0459,Utkarsh's Supermarket,Advika Khurana,Retail,Delhi,2.79,1
+BUS_0460,Onveer's Brew Room,Bhavika Chacko,Cafe,Bengaluru,2.28,0
+BUS_0461,Ganga's Iron Gym,Yahvi Chaudry,Gym,Pune,1.74,1
+BUS_0462,Dev's Brew Room,Jason Barman,Cafe,Bengaluru,1.53,0
+BUS_0463,Chaaya's Unisex Salon,Pushti Subramaniam,Salon,Pune,1.49,1
+BUS_0464,Ladli's Cafe,Dev Munshi,Cafe,Mumbai,2.51,1
+BUS_0465,Bahadurjit's Styles,Wriddhish Kothari,Salon,Chennai,2.92,1
+BUS_0466,Om's Pulse,Adweta Ray,Gym,Bengaluru,6.6,1
+BUS_0467,Adweta's Stores,Karan Talwar,Retail,Mumbai,,0
+BUS_0468,Yochana's Mart,Ekta Bora,Retail,Mumbai,1.87,1
+BUS_0469,Kabir's Iron Gym,Noah Sawhney,Gym,Chennai,2.89,0
+BUS_0470,Yauvani's Apparels,Vaishnavi Sahni,Retail,Delhi,1.71,0
+BUS_0471,Thomas's Coffee House,Neelima Gaba,Cafe,Hyderabad,3.12,0
+BUS_0472,Manya's Bistro,Manthan Reddy,Cafe,Bengaluru,,1
+BUS_0473,Krishna's Styles,Isaiah Atwal,Salon,Bengaluru,2.09,1
+BUS_0474,Tristan's Makeover Studio,Lucky Bal,Salon,Mumbai,0.71,0
+BUS_0475,Falguni's Arena,Upadhriti Chana,Gym,Bengaluru,2.55,0
+BUS_0476,Bhavika's Supermarket,Ekansh Shan,Retail,Pune,2.63,0
+BUS_0477,Zilmil's Powerhouse,Sanaya Nanda,Gym,Delhi,4.67,0
+BUS_0478,Naveen's Bazaar,Ekaja Mukherjee,Retail,Pune,4.31,0
+BUS_0479,Baghyawati's Powerhouse,Avni Hans,Gym,Mumbai,3.1,1
+BUS_0480,Xiti's Apparels,Logan Magar,Retail,Chennai,3.2,1
+BUS_0481,Jai's Cuts & Curls,Jackson Jaggi,Salon,Pune,5.26,1
+BUS_0482,Ria's Styles,Abhiram Mangal,Salon,Chennai,3.5,0
+BUS_0483,Ansh's Arena,Gaurika Lall,Gym,Delhi,5.24,1
+BUS_0484,Upasna's Unisex Salon,Darpan Saha,Salon,Mumbai,6.22,0
+BUS_0485,Abha's Styles,Oeshi Palla,Salon,Bengaluru,0.92,0
+BUS_0486,Vasana's Iron Gym,Adweta Ganesan,Gym,Bengaluru,1.54,0
+BUS_0487,Faras's Corner,Hredhaan Mutti,Cafe,Mumbai,1.92,1
+BUS_0488,Upma's Studio,Omisha Devan,Gym,Pune,0.5,1
+BUS_0489,Warhi's Cuts & Curls,Aashi Agarwal,Salon,Mumbai,0.5,0
+BUS_0490,Osha's Cafe,Avni Bora,Cafe,Pune,2.72,0
+BUS_0491,Yashvi's Fitness,Manthan Mittal,Gym,Delhi,3.27,0
+BUS_0492,Yachana's Bistro,Vidhi Singh,Cafe,Hyderabad,1.68,0
+BUS_0493,Tara's Apparels,Mitesh Sunder,Retail,Pune,1.11,1
+BUS_0494,Manbir's Coffee House,Luke Kapur,Cafe,Hyderabad,4.52,1
+BUS_0495,Ishwar's Bazaar,Nathan Raman,Retail,Bengaluru,2.15,1
+BUS_0496,Falan's CrossFit,Anika Lal,Gym,Mumbai,0.76,1
+BUS_0497,Omaja's Provisions,Darika Parekh,Retail,Mumbai,1.35,0
+BUS_0498,Nihal's Coffee House,Rishi Nori,Cafe,Hyderabad,1.38,0
+BUS_0499,Falan's Bistro,Amruta Khalsa,Cafe,Chennai,4.17,1
+BUS_0500,Girish's Iron Gym,Mohammed Date,Gym,Bengaluru,2.85,0
+BUS_0501,Nihal's Bistro,Deepa Devi,Cafe,Chennai,4.58,1
+BUS_0502,Tejas's CrossFit,Orinder Buch,Gym,Bengaluru,1.54,0
+BUS_0503,Guneet's Supermarket,Ishanvi Som,Retail,Mumbai,3.17,0
+BUS_0504,Niharika's Bistro,Jeet Dubey,Cafe,Mumbai,3.71,1
+BUS_0505,Gaurang's Provisions,Pratyush Bala,Retail,Chennai,2.14,1
+BUS_0506,Prisha's Arena,Vivaan Chaudhuri,Gym,Chennai,3.16,1
+BUS_0507,Liam's Styles,Ishani Rattan,Salon,Mumbai,2.51,1
+BUS_0508,Krishna's CrossFit,Lekha Doctor,Gym,Bengaluru,3.37,1
+BUS_0509,Janani's Stores,Ishita Kala,Retail,Bengaluru,1.34,1
+BUS_0510,Damyanti's Iron Gym,Kamala Sandhu,Gym,Chennai,2.71,0
+BUS_0511,Kamala's Coffee House,Ikbal Oommen,Cafe,Chennai,1.84,1
+BUS_0512,Yashawini's Arena,Anusha Kapur,Gym,Pune,8.04,1
+BUS_0513,Finn's Brew Room,Libni Rajagopal,Cafe,Delhi,3.76,1
+BUS_0514,Falak's Corner,Widisha Deep,Cafe,Pune,2.41,0
+BUS_0515,Amol's Glow,Ethan Subramaniam,Salon,Delhi,1.51,1
+BUS_0516,Gopal's Coffee House,Indali Brar,Cafe,Pune,0.69,0
+BUS_0517,Dakshesh's Styles,Upma Hans,Salon,Pune,3.48,1
+BUS_0518,Hemani's Fitness,Eesha Andra,Gym,Delhi,5.48,1
+BUS_0519,Timothy's Beans & Leaves,Prisha Jaggi,Cafe,Chennai,0.5,0
+BUS_0520,Sudiksha's Styles,Eesha Swamy,Salon,Bengaluru,4.28,1
+BUS_0521,Leela's Apparels,Tanvi Kumer,Retail,Pune,2.53,1
+BUS_0522,Ryan's Beans & Leaves,Chaitanya Saha,Cafe,Pune,2.71,1
+BUS_0523,Udyati's Cafe,Parth Rau,Cafe,Chennai,3.7,1
+BUS_0524,Triya's Arena,Yash Krish,Gym,Chennai,1.19,1
+BUS_0525,Ishanvi's CrossFit,Thomas Kata,Gym,Pune,5.83,1
+BUS_0526,Manbir's Spa & Salon,Ucchal Bajaj,Salon,Hyderabad,2.51,0
+BUS_0527,Kiaan's Cuts & Curls,Maanav Naidu,Salon,Pune,2.85,1
+BUS_0528,Neel's Apparels,Girik Prasad,Retail,Mumbai,1.21,1
+BUS_0529,Pranav's Fitness,Ethan Seth,Gym,Mumbai,4.49,1
+BUS_0530,Riya's Bazaar,Kamala Ramakrishnan,Retail,Mumbai,2.05,1
+BUS_0531,Darika's Stores,Yashasvi Sarraf,Retail,Pune,0.79,0
+BUS_0532,Jacob's Iron Gym,Madhav Chaudhry,Gym,Hyderabad,1.36,1
+BUS_0533,Yasti's Brew Room,Vedhika Dey,Cafe,Hyderabad,0.96,0
+BUS_0534,Varenya's Brew Room,Pranav Ahluwalia,Cafe,Mumbai,3.82,0
+BUS_0535,Lakshmi's Coffee House,Jonathan Gandhi,Cafe,Pune,2.51,0
+BUS_0536,Zilmil's Brew Room,Pratyush Wable,Cafe,Pune,2.94,1
+BUS_0537,Wishi's Styles,Faras Mangal,Salon,Bengaluru,1.07,1
+BUS_0538,Niharika's Corner,Tristan Dhar,Cafe,Bengaluru,2.15,1
+BUS_0539,Harini's Bazaar,Ranveer Viswanathan,Retail,Bengaluru,0.94,0
+BUS_0540,Krish's Cafe,Vincent Dave,Cafe,Bengaluru,4.46,1
+BUS_0541,Gopal's Provisions,Jeet Datta,Retail,Chennai,1.63,0
+BUS_0542,Tanmayi's Spa & Salon,Nandini Jani,Salon,Bengaluru,7.58,1
+BUS_0543,Vaishnavi's CrossFit,Nathaniel Joshi,Gym,Bengaluru,,1
+BUS_0544,Balhaar's Supermarket,Chakradhar Swamy,Retail,Mumbai,3.08,1
+BUS_0545,Balhaar's Corner,Chatresh Doctor,Cafe,Pune,,1
+BUS_0546,Qushi's Studio,Veda Gopal,Gym,Pune,2.14,0
+BUS_0547,Jagat's Cuts & Curls,Yashoda Som,Salon,Delhi,2.66,0
+BUS_0548,Unni's Makeover Studio,Rachit Kala,Salon,Hyderabad,2.49,1
+BUS_0549,Shravya's Apparels,Ishita Bajwa,Retail,Bengaluru,0.71,0
+BUS_0550,Guneet's Styles,Madhav Divan,Salon,Delhi,,0
+BUS_0551,Bakhshi's Cuts & Curls,Samuel Dugar,Salon,Chennai,0.89,0
+BUS_0552,Kalpit's Apparels,Bhanumati Bhatia,Retail,Chennai,3.09,1
+BUS_0553,Hamsini's Coffee House,Ronith Dave,Cafe,Bengaluru,1.75,1
+BUS_0554,Aarush's Arena,Sathvik Purohit,Gym,Hyderabad,1.49,1
+BUS_0555,Benjamin's CrossFit,Aarnav Kota,Gym,Mumbai,6.71,0
+BUS_0556,William's Glow,Dayamai Bala,Salon,Delhi,2.44,0
+BUS_0557,Varenya's Unisex Salon,Abhimanyu Chowdhury,Salon,Hyderabad,3.43,0
+BUS_0558,Anusha's Arena,Manbir Manda,Gym,Bengaluru,2.85,1
+BUS_0559,Nandini's Brew Room,Odika Chada,Cafe,Bengaluru,3.35,0
+BUS_0560,Watika's Stores,Watika Dubey,Retail,Mumbai,4.28,1
+BUS_0561,Upasna's Unisex Salon,Darsh Deshmukh,Salon,Delhi,5.09,1
+BUS_0562,Gabriel's Provisions,Oeshi Srivastava,Retail,Hyderabad,1.44,1
+BUS_0563,Eiravati's Powerhouse,Vanya Dada,Gym,Hyderabad,1.94,1
+BUS_0564,Watika's Styles,Ladli Sankar,Salon,Mumbai,1.57,0
+BUS_0565,Chatura's Stores,Ishaan Soman,Retail,Chennai,2.68,1
+BUS_0566,Lavanya's Mart,Sudiksha Ahuja,Retail,Hyderabad,3.03,1
+BUS_0567,Benjamin's Unisex Salon,Ikshita Khosla,Salon,Chennai,3.73,1
+BUS_0568,Yashasvi's CrossFit,Chandresh Bhardwaj,Gym,Bengaluru,3.85,1
+BUS_0569,Amaira's Coffee House,Hemal Dey,Cafe,Bengaluru,1.66,1
+BUS_0570,Upma's Studio,Nikita Chaudhry,Gym,Bengaluru,3.69,1
+BUS_0571,Vihaan's Cuts & Curls,Harish Kata,Salon,Delhi,,1
+BUS_0572,Ekani's Brew Room,Rajeshri Kalita,Cafe,Mumbai,2.32,0
+BUS_0573,Anjali's Cafe,Ekalinga Dhar,Cafe,Hyderabad,2.16,0
+BUS_0574,Ekansh's Beans & Leaves,Omya Sane,Cafe,Bengaluru,0.5,0
+BUS_0575,Janaki's Makeover Studio,Elijah Kota,Salon,Chennai,2.14,1
+BUS_0576,Anay's Corner,Wahab Kant,Cafe,Chennai,0.5,0
+BUS_0577,Arin's Apparels,Charita Pradhan,Retail,Pune,0.69,0
+BUS_0578,Vaishnavi's Styles,Lopa Hegde,Salon,Hyderabad,4.9,1
+BUS_0579,Anay's CrossFit,Warinder Raju,Gym,Pune,8.25,0
+BUS_0580,Samaksh's Beans & Leaves,Anika Walla,Cafe,Delhi,2.32,1
+BUS_0581,Pahal's Styles,Chatura Pall,Salon,Pune,7.55,0
+BUS_0582,Qarin's Brew Room,Nisha Dutt,Cafe,Pune,0.5,0
+BUS_0583,Divya's Styles,Pavani Bansal,Salon,Hyderabad,,1
+BUS_0584,Nakul's Bazaar,Jai Vala,Retail,Delhi,3.81,1
+BUS_0585,Bimala's Stores,Nidhi Patla,Retail,Chennai,4.01,1
+BUS_0586,Sudiksha's Provisions,Yuvraj Lala,Retail,Hyderabad,3.01,1
+BUS_0587,Edhitha's Mart,Yashawini Mohan,Retail,Bengaluru,2.2,0
+BUS_0588,Krishna's CrossFit,Gopal Singhal,Gym,Delhi,1.5,0
+BUS_0589,Oeshi's Fitness,Anamika Din,Gym,Pune,1.25,0
+BUS_0590,Frado's Fitness,Falak Deshmukh,Gym,Chennai,0.65,0
+BUS_0591,Upkaar's Cuts & Curls,Barkha Sathe,Salon,Mumbai,5.22,0
+BUS_0592,Brinda's Bazaar,Bhavani Tella,Retail,Bengaluru,1.33,1
+BUS_0593,Brijesh's Mart,Sanya Subramaniam,Retail,Chennai,3.42,0
+BUS_0594,Ekanta's Unisex Salon,Samesh Date,Salon,Hyderabad,1.45,1
+BUS_0595,Thomas's Supermarket,Urmi Virk,Retail,Pune,1.52,0
+BUS_0596,Indira's Spa & Salon,Ranveer Loke,Salon,Delhi,1.05,0
+BUS_0597,Qasim's Apparels,Hredhaan Grover,Retail,Hyderabad,2.4,0
+BUS_0598,Priya's Supermarket,Oeshi Warrior,Retail,Mumbai,2.1,0
+BUS_0599,Gagan's Makeover Studio,Fitan Taneja,Salon,Bengaluru,3.09,0
+BUS_0600,Vasatika's Pulse,Mitesh Memon,Gym,Delhi,5.16,1
+BUS_0601,Falak's Iron Gym,Faras Contractor,Gym,Mumbai,1.78,1
+BUS_0602,Sudiksha's Arena,Leena Rau,Gym,Chennai,3.14,0
+BUS_0603,Anvi's Studio,Benjamin Seth,Gym,Mumbai,2.3,1
+BUS_0604,Udarsh's Stores,Vansha Randhawa,Retail,Mumbai,1.14,1
+BUS_0605,Chatresh's Arena,Akshay Aurora,Gym,Mumbai,5.66,0
+BUS_0606,Watika's Styles,Praneel Nath,Salon,Hyderabad,0.85,0
+BUS_0607,Vasana's Coffee House,Abeer Sood,Cafe,Mumbai,3.45,0
+BUS_0608,Rajata's Unisex Salon,Harinakshi Palan,Salon,Chennai,4.56,1
+BUS_0609,Finn's Cuts & Curls,Chandran Mitra,Salon,Hyderabad,2.29,0
+BUS_0610,Yachana's Provisions,Advika Chandra,Retail,Delhi,7.64,0
+BUS_0611,Anya's Provisions,Vincent Babu,Retail,Pune,2.09,0
+BUS_0612,Imaran's Provisions,Jackson Ramanathan,Retail,Mumbai,3.17,1
+BUS_0613,Zayyan's Supermarket,Ikshita Dalal,Retail,Mumbai,1.97,1
+BUS_0614,Adya's Spa & Salon,Gauri Uppal,Salon,Chennai,2.06,0
+BUS_0615,Anirudh's Stores,Isaiah Wadhwa,Retail,Pune,8.87,1
+BUS_0616,Udant's Makeover Studio,Jeet Ranganathan,Salon,Bengaluru,0.7,0
+BUS_0617,Robert's Pulse,Falguni Jayaraman,Gym,Chennai,10.42,1
+BUS_0618,Peter's Unisex Salon,Vasana Andra,Salon,Delhi,5.55,0
+BUS_0619,Raghav's Iron Gym,Nimrat Hari,Gym,Delhi,2.44,1
+BUS_0620,Sarthak's Makeover Studio,Hamsini Mukherjee,Salon,Chennai,6.2,0
+BUS_0621,Parth's Cafe,Ekta Dhawan,Cafe,Bengaluru,,1
+BUS_0622,Raghav's Spa & Salon,Gautami Ramanathan,Salon,Hyderabad,0.92,0
+BUS_0623,Hemal's Apparels,Aashi Narang,Retail,Mumbai,0.74,0
+BUS_0624,Gautam's Makeover Studio,Ubika Mane,Salon,Chennai,,0
+BUS_0625,Vamakshi's Brew Room,Orinder Sunder,Cafe,Chennai,0.99,1
+BUS_0626,Daksha's Coffee House,Frado Wable,Cafe,Bengaluru,3.84,1
+BUS_0627,Indira's Mart,Hredhaan Rastogi,Retail,Chennai,1.79,0
+BUS_0628,Jonathan's Supermarket,Saumya Shukla,Retail,Bengaluru,1.69,1
+BUS_0629,Adweta's Stores,Meghana Sha,Retail,Delhi,3.7,1
+BUS_0630,Maanav's Unisex Salon,Chandresh Datta,Salon,Delhi,1.8,0
+BUS_0631,Aarna's Supermarket,Sanya Merchant,Retail,Bengaluru,,1
+BUS_0632,Manthan's Styles,Faqid Dora,Salon,Chennai,1.55,0
+BUS_0633,Parth's Apparels,Bhavna Dyal,Retail,Pune,1.04,0
+BUS_0634,Harsh's Brew Room,Advika Kapur,Cafe,Bengaluru,1.24,0
+BUS_0635,Quincy's Supermarket,Lucky Bawa,Retail,Chennai,4.3,0
+BUS_0636,Warjas's Bistro,Nidra Andra,Cafe,Mumbai,3.75,1
+BUS_0637,Ansh's Stores,Radha Sampath,Retail,Mumbai,1.29,0
+BUS_0638,Anita's Fitness,Brinda Talwar,Gym,Pune,3.03,1
+BUS_0639,Darsh's Fitness,Avni Chatterjee,Gym,Hyderabad,3.98,1
+BUS_0640,Darsh's Apparels,Vasatika Keer,Retail,Mumbai,1.94,1
+BUS_0641,Anita's Makeover Studio,Watika Saxena,Salon,Delhi,2.1,1
+BUS_0642,Zinal's Beans & Leaves,Falan Chowdhury,Cafe,Delhi,,1
+BUS_0643,Vaishnavi's Bazaar,Hemani Ganesan,Retail,Hyderabad,0.61,1
+BUS_0644,Vansha's Mart,Ekani Bassi,Retail,Delhi,2.1,0
+BUS_0645,Avni's Coffee House,Lohit Walla,Cafe,Pune,0.5,1
+BUS_0646,Neel's Mart,Nimrat Brar,Retail,Mumbai,10.13,0
+BUS_0647,Chaitanya's Makeover Studio,Jhalak Bumb,Salon,Mumbai,,0
+BUS_0648,Ekapad's Coffee House,Gavin Pingle,Cafe,Bengaluru,2.14,0
+BUS_0649,Panini's CrossFit,Baghyawati Sood,Gym,Bengaluru,2.33,1
+BUS_0650,Darpan's Makeover Studio,Qasim Jain,Salon,Hyderabad,2.83,1
+BUS_0651,Tanveer's Pulse,Jason Saxena,Gym,Hyderabad,3.7,0
+BUS_0652,Farhan's CrossFit,Rajeshri Shah,Gym,Delhi,1.33,1
+BUS_0653,Akshay's Apparels,Hredhaan Keer,Retail,Delhi,,1
+BUS_0654,Anusha's Glow,Jatin Kala,Salon,Delhi,2.23,0
+BUS_0655,Elijah's Cafe,Falan Goyal,Cafe,Pune,3.5,0
+BUS_0656,Manthan's Iron Gym,Ishaan Bora,Gym,Mumbai,3.62,0
+BUS_0657,Ekbal's Mart,Ekavir Bali,Retail,Bengaluru,3.81,1
+BUS_0658,Mitesh's Beans & Leaves,Isaac Bains,Cafe,Pune,,0
+BUS_0659,Yash's Spa & Salon,Girik Balasubramanian,Salon,Bengaluru,1.32,0
+BUS_0660,Riya's Glow,Benjamin Kunda,Salon,Hyderabad,1.68,0
+BUS_0661,Mohini's Beans & Leaves,Viraj Krishnamurthy,Cafe,Mumbai,3.09,1
+BUS_0662,Diya's Stores,Rayaan Mohanty,Retail,Hyderabad,2.94,1
+BUS_0663,Yauvani's Cuts & Curls,Isaiah Madan,Salon,Hyderabad,0.71,1
+BUS_0664,Timothy's Cafe,Gaurang Warrior,Cafe,Delhi,1.57,0
+BUS_0665,Madhav's Arena,Chakradev Shan,Gym,Bengaluru,2.58,0
+BUS_0666,Aahana's Mart,Shivani Nayar,Retail,Bengaluru,5.39,1
+BUS_0667,Urmi's Supermarket,Ranbir Bassi,Retail,Chennai,5.34,1
+BUS_0668,Tristan's Supermarket,Darsh Morar,Retail,Chennai,1.89,0
+BUS_0669,Pooja's Stores,Rishi Basu,Retail,Delhi,1.55,0
+BUS_0670,Bhanumati's Spa & Salon,Darpan Kannan,Salon,Hyderabad,2.27,1
+BUS_0671,Devansh's Cuts & Curls,Maanas Sarna,Salon,Chennai,2.31,0
+BUS_0672,Harrison's Glow,Raagini Balasubramanian,Salon,Hyderabad,4.77,1
+BUS_0673,Darpan's Fitness,Jack Warrior,Gym,Delhi,1.39,0
+BUS_0674,Manya's Provisions,Ishwar Dhillon,Retail,Bengaluru,2.62,0
+BUS_0675,Faris's CrossFit,Amrita Khanna,Gym,Mumbai,1.26,0
+BUS_0676,Jalsa's Mart,Kashish Bakshi,Retail,Delhi,0.5,0
+BUS_0677,Anjali's Arena,Omaja Hans,Gym,Pune,3.78,0
+BUS_0678,Urmi's Provisions,Hamsini Pandit,Retail,Delhi,0.5,0
+BUS_0679,Avni's Arena,Kalpit Chahal,Gym,Hyderabad,2.54,0
+BUS_0680,Siya's Styles,Hemang Sen,Salon,Pune,1.74,0
+BUS_0681,Nachiket's Supermarket,Ira Basu,Retail,Mumbai,3.14,1
+BUS_0682,Vasana's Bistro,Devika Vaidya,Cafe,Chennai,1.3,1
+BUS_0683,Sai's Bazaar,Priya Panchal,Retail,Bengaluru,2.62,1
+BUS_0684,Laban's Powerhouse,Kamala Som,Gym,Bengaluru,1.26,0
+BUS_0685,Ayush's Stores,Ranbir Oza,Retail,Pune,1.09,1
+BUS_0686,Urmi's Powerhouse,Advik Kakar,Gym,Mumbai,6.13,1
+BUS_0687,Prisha's Stores,Raghav Dash,Retail,Bengaluru,0.5,0
+BUS_0688,Damyanti's Coffee House,Vrishti Chhabra,Cafe,Chennai,2.7,1
+BUS_0689,Damyanti's Unisex Salon,Advik Modi,Salon,Bengaluru,3.82,0
+BUS_0690,Rehaan's Unisex Salon,Dipta Chaudhuri,Salon,Chennai,6.35,1
+BUS_0691,Kai's Provisions,Kiaan Borde,Retail,Bengaluru,2.0,1
+BUS_0692,Gopal's Supermarket,Kalpit Nanda,Retail,Pune,2.63,1
+BUS_0693,Nirja's Coffee House,Qushi Bawa,Cafe,Chennai,3.03,1
+BUS_0694,Upkaar's Styles,Dakshesh Bakshi,Salon,Pune,6.33,1
+BUS_0695,Vanya's CrossFit,Chaman Bora,Gym,Hyderabad,1.43,0
+BUS_0696,Garima's Unisex Salon,Vansha Kara,Salon,Chennai,1.71,0
+BUS_0697,Devansh's Studio,Ekavir Menon,Gym,Chennai,3.42,1
+BUS_0698,Sai's Coffee House,Yash Iyengar,Cafe,Mumbai,2.3,0
+BUS_0699,Quincy's Mart,Ekavir Vora,Retail,Chennai,0.57,0
+BUS_0700,Yutika's Bazaar,Fiyaz Thaker,Retail,Pune,,1
+BUS_0701,Guneet's Mart,Mitesh Kothari,Retail,Pune,2.55,0
+BUS_0702,Owen's Beans & Leaves,Harinakshi Sarkar,Cafe,Hyderabad,4.02,1
+BUS_0703,Balvan's Pulse,Laksh Devan,Gym,Delhi,1.91,1
+BUS_0704,Orinder's Corner,Sanya Parmer,Cafe,Mumbai,4.77,0
+BUS_0705,Abhiram's Bazaar,Meghana Korpal,Retail,Bengaluru,1.75,1
+BUS_0706,Daksh's Iron Gym,Banjeet Kannan,Gym,Bengaluru,3.77,1
+BUS_0707,Jagdish's Unisex Salon,Mitesh Shah,Salon,Chennai,8.39,1
+BUS_0708,Barkha's Spa & Salon,Gaurika Lall,Salon,Bengaluru,3.56,0
+BUS_0709,Zehaan's Cafe,Ekta Sankaran,Cafe,Chennai,2.64,1
+BUS_0710,Girik's Unisex Salon,Wakeeta Dhar,Salon,Bengaluru,3.78,1
+BUS_0711,Charles's Glow,Anamika Iyer,Salon,Pune,4.5,1
+BUS_0712,Rachita's Studio,Jagat Bajaj,Gym,Chennai,1.16,0
+BUS_0713,Saanvi's Coffee House,Saanvi Radhakrishnan,Cafe,Delhi,0.5,1
+BUS_0714,Turvi's Pulse,Baljiwan Chauhan,Gym,Delhi,2.18,1
+BUS_0715,Yatan's Pulse,Darika Sheth,Gym,Hyderabad,,1
+BUS_0716,Gaurika's Makeover Studio,Aradhana Bail,Salon,Pune,3.78,1
+BUS_0717,Lipika's Brew Room,Nicholas Bhardwaj,Cafe,Pune,2.0,0
+BUS_0718,Sanaya's Cuts & Curls,Garima Raghavan,Salon,Chennai,2.55,1
+BUS_0719,Meghana's Mart,Jhalak Shetty,Retail,Chennai,,0
+BUS_0720,Veda's Styles,Ekantika Sankaran,Salon,Chennai,3.7,1
+BUS_0721,Qarin's Iron Gym,Jhalak Saxena,Gym,Hyderabad,4.83,1
+BUS_0722,Chameli's Fitness,Jonathan Mukherjee,Gym,Pune,1.11,0
+BUS_0723,Elijah's Unisex Salon,Oni Suresh,Salon,Bengaluru,1.71,1
+BUS_0724,Yauvani's Studio,Girik Borah,Gym,Bengaluru,2.9,0
+BUS_0725,Vincent's Brew Room,Xalak Dar,Cafe,Pune,2.87,1
+BUS_0726,Anika's Powerhouse,Rudra Bajaj,Gym,Bengaluru,6.33,0
+BUS_0727,Charan's Cuts & Curls,Veer Pai,Salon,Hyderabad,10.72,0
+BUS_0728,Harshil's Iron Gym,Harrison Dua,Gym,Hyderabad,1.06,1
+BUS_0729,Zayan's Spa & Salon,Meera Sur,Salon,Bengaluru,3.17,1
+BUS_0730,Damyanti's Glow,Qarin Tak,Salon,Pune,3.98,1
+BUS_0731,Owen's Glow,Jacob Mandal,Salon,Pune,1.0,0
+BUS_0732,Gaurangi's Stores,Nicholas Parsa,Retail,Hyderabad,1.23,0
+BUS_0733,Samaksh's Makeover Studio,Faras Ravel,Salon,Pune,2.88,0
+BUS_0734,Chanchal's Unisex Salon,Gaurangi Wagle,Salon,Mumbai,3.66,1
+BUS_0735,Upkaar's Fitness,Kai Rout,Gym,Bengaluru,2.31,0
+BUS_0736,Damini's Styles,Udant Gandhi,Salon,Chennai,2.14,1
+BUS_0737,Mitesh's Apparels,Ishita Baral,Retail,Chennai,2.18,0
+BUS_0738,Dalaja's Supermarket,Chavvi Hari,Retail,Chennai,2.89,1
+BUS_0739,Amara's Powerhouse,Leena Kale,Gym,Mumbai,2.8,1
+BUS_0740,Jai's Unisex Salon,Tejas Dutta,Salon,Pune,1.27,1
+BUS_0741,Qabil's Apparels,Abhimanyu Hora,Retail,Pune,2.14,1
+BUS_0742,Siya's Stores,Ronith Hayre,Retail,Pune,2.61,1
+BUS_0743,Lila's Pulse,Ishanvi Bhagat,Gym,Bengaluru,4.01,1
+BUS_0744,Advay's Cafe,Megha Modi,Cafe,Pune,0.5,0
+BUS_0745,Yatin's Supermarket,Ranbir Soman,Retail,Pune,3.98,0
+BUS_0746,Anmol's Pulse,Maya Lalla,Gym,Hyderabad,10.05,0
+BUS_0747,Tanmayi's Spa & Salon,Udarsh Cheema,Salon,Bengaluru,2.2,0
+BUS_0748,Upadhriti's Brew Room,Advika Dara,Cafe,Delhi,8.19,1
+BUS_0749,Ayaan's Iron Gym,Isaac Pal,Gym,Mumbai,5.63,1
+BUS_0750,Rohan's Beans & Leaves,Kashvi Nadkarni,Cafe,Hyderabad,3.69,1
+BUS_0751,Matthew's Makeover Studio,Champak Ganesh,Salon,Pune,1.99,1
+BUS_0752,Lakshmi's Styles,Watika Rajagopal,Salon,Delhi,1.81,0
+BUS_0753,Yashasvi's Beans & Leaves,Eta Dube,Cafe,Pune,1.61,1
+BUS_0754,Indali's Beans & Leaves,Nihal Shukla,Cafe,Bengaluru,4.3,1
+BUS_0755,Amol's Pulse,Waida Nagy,Gym,Mumbai,5.44,0
+BUS_0756,Daksh's Pulse,Laksh Gola,Gym,Bengaluru,,0
+BUS_0757,Naksh's Makeover Studio,Aryan Mutti,Salon,Mumbai,,0
+BUS_0758,Vinaya's Glow,Ubika Palla,Salon,Hyderabad,2.03,0
+BUS_0759,Indrajit's Brew Room,Krisha Grewal,Cafe,Hyderabad,4.01,1
+BUS_0760,Ijaya's Pulse,Mason Gandhi,Gym,Hyderabad,6.26,0
+BUS_0761,Ishita's Arena,Inaya Muni,Gym,Chennai,3.77,1
+BUS_0762,Ria's Brew Room,Wakeeta De,Cafe,Chennai,1.14,1
+BUS_0763,Finn's Fitness,Warinder Kalita,Gym,Hyderabad,4.09,0
+BUS_0764,Abha's Apparels,Azaan Bhardwaj,Retail,Hyderabad,6.56,1
+BUS_0765,Aditya's CrossFit,Fitan Shah,Gym,Pune,0.89,1
+BUS_0766,Ekalinga's Bazaar,Daniel Ganguly,Retail,Mumbai,0.84,1
+BUS_0767,Mugdha's Beans & Leaves,Krishna Uppal,Cafe,Bengaluru,2.2,1
+BUS_0768,Alexander's Apparels,Turvi Mukherjee,Retail,Bengaluru,,0
+BUS_0769,Lakshit's Studio,Zansi Thakkar,Gym,Delhi,1.87,0
+BUS_0770,Amara's Mart,Sai Chanda,Retail,Delhi,0.5,0
+BUS_0771,Urvashi's Glow,Girish Savant,Salon,Chennai,6.43,1
+BUS_0772,Wridesh's Apparels,Onveer Kapoor,Retail,Mumbai,2.52,1
+BUS_0773,Peter's Coffee House,Upma Krish,Cafe,Mumbai,2.65,1
+BUS_0774,Luke's Cafe,Aarav Chana,Cafe,Bengaluru,2.17,0
+BUS_0775,Osha's Glow,Chatresh Master,Salon,Delhi,5.03,1
+BUS_0776,Samaksh's Cuts & Curls,Aahana Edwin,Salon,Chennai,,1
+BUS_0777,Ansh's Iron Gym,Omisha Parekh,Gym,Delhi,0.92,0
+BUS_0778,Hemangini's Makeover Studio,Jagat Suri,Salon,Pune,2.66,0
+BUS_0779,Jeremiah's Mart,Udarsh Viswanathan,Retail,Delhi,1.83,1
+BUS_0780,Zaid's Studio,Aarini Prasad,Gym,Chennai,2.64,1
+BUS_0781,Devika's CrossFit,Tanmayi Virk,Gym,Mumbai,1.41,1
+BUS_0782,Kabir's Powerhouse,Dayamai Purohit,Gym,Delhi,2.57,0
+BUS_0783,Anirudh's Brew Room,Aarush Kumer,Cafe,Mumbai,2.25,1
+BUS_0784,Varsha's Cuts & Curls,Jagat Cherian,Salon,Hyderabad,3.07,1
+BUS_0785,Nitesh's Studio,Ekansh Ahluwalia,Gym,Pune,0.84,0
+BUS_0786,Aashi's Bistro,Jack Krishnamurthy,Cafe,Hyderabad,1.45,1
+BUS_0787,Ekani's Styles,Nidra Ratta,Salon,Chennai,1.13,0
+BUS_0788,Girindra's Spa & Salon,Lavanya Swaminathan,Salon,Delhi,2.41,1
+BUS_0789,Meera's Studio,Vansha Butala,Gym,Pune,3.67,0
+BUS_0790,Jason's Supermarket,Ekanta Raj,Retail,Bengaluru,1.0,0
+BUS_0791,Samarth's Arena,Upkaar Karnik,Gym,Mumbai,4.53,1
+BUS_0792,Panini's Cafe,Samuel Lalla,Cafe,Hyderabad,1.8,0
+BUS_0793,Frado's Beans & Leaves,Amrita Raval,Cafe,Mumbai,3.59,1
+BUS_0794,Edhitha's Glow,Januja Mandal,Salon,Hyderabad,1.87,1
+BUS_0795,Gautami's CrossFit,Qabil Salvi,Gym,Mumbai,1.93,0
+BUS_0796,Sathvik's Cuts & Curls,Agastya Balasubramanian,Salon,Chennai,,0
+BUS_0797,Neelima's Powerhouse,Vedika Krishnamurthy,Gym,Bengaluru,,1
+BUS_0798,Darika's Stores,Nathan Barad,Retail,Bengaluru,0.5,0
+BUS_0799,Urmi's Mart,Sara Ben,Retail,Delhi,7.96,1
+BUS_0800,Saksham's Iron Gym,Amol Soni,Gym,Bengaluru,1.45,1
